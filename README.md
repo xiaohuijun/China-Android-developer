@@ -86,7 +86,7 @@
 | 名称  |描述   | 名称  |描述| 名称  |描述|
 | :-----: |:----:| :------:| :--------:| :----------:| :----------:|
 |[知乎](http://www.zhihu.com/)|知乎|[简书](http://www.jianshu.com/)|简书|[贴吧](http://tieba.baidu.com/)|贴吧|
-|[天涯](http://www.tianya.cn/)|天涯|
+|[天涯](http://www.tianya.cn/)|天涯|[掘金](http://gold.xitu.io/explore/android)|掘金|
 
 ***
 *  娱乐社区
