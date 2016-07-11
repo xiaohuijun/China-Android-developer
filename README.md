@@ -69,7 +69,8 @@
 | :-----: |:----:| :------:| :--------:| :----------:| :----------:|
 |[eoe](http://www.eoeandroid.com/forum.php)|eoe|[DevStore](http://www.devstore.cn/resource/resourceHome.html)|DevStore|[IT蓝豹](http://www.itlanbao.com/)|IT蓝豹|
 |[apkbus](http://www.apkbus.com/)|apkbus|[爱开发](http://bbs.aiyingli.com/forum.php?fromuid=16146)|爱开发|
-
+|[android开源项目搜集](https://github.com/Trinea/android-open-project)|android开源项目搜集|
+|[强大的 Android 开源项目搜索站](http://p.codekk.com/)|强大的 Android 开源项目搜索站|
 ***
 *  就业状况
 
@@ -106,6 +107,4 @@
 |[友盟](http://www.umeng.com/)|友盟|[ShareSdk](http://www.mob.com/)|ShareSdk|[微信开发平台](https://open.weixin.qq.com/)|傻逼腾讯|
 |[豌豆荚](http://developer.wandoujia.com/)|豌豆荚|[高德地图API](http://lbs.amap.com/)|高德地图|[百度地图API](http://lbsyun.baidu.com/)|百度地图|
 
-> * 中高级android开发群 欢迎大家加群交流，一起提高，一起愉快的装逼
 
-> *  QQ:332840500 （非开发人员勿扰）
