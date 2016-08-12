@@ -61,6 +61,7 @@
 |[Retrofit](https://futurestud.io/books/retrofit)|Retrofit|[热补丁更新](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=0)|热补丁更新|[Git学习](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)|Git学习|
 |[码云](http://git.oschina.net/)|码云|[代码托管](https://coding.net/)|代码托管|[linux命令大全](http://www.php100.com/html/webkaifa/Linux/2009/1106/3485.html)|linux命令大全|
 |[markdown用法](http://www.jianshu.com/p/1e402922ee32)|详解|
+|[android问题集]（https://github.com/jiang111/awesome-android-tips）|开发问题集|
 
 ***
 *  源码学习
